@@ -186,7 +186,7 @@ python -m app.main
 ## 📊 Technology Stack
 
 | Layer | Technology | Version |
-|-------|-----------|---------|
+|-------|-----------|----------|
 | **API** | FastAPI | 0.104.1 |
 | **Server** | Uvicorn | 0.24.0 |
 | **Multi-Agent** | LangGraph | 0.0.20 |
